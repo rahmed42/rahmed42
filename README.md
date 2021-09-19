@@ -19,8 +19,6 @@
 
 [![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed)](https://github.com/JaeSeoKim/badge42)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmed42&label=Profile%20views&color=0e75b6&style=plastic" alt="rahmed42" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42" alt="rahmed42" /></a> </p>
 
 
