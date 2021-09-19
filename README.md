@@ -30,9 +30,10 @@
 </p><a href="https://linkedin.com/in/rabah-a-39259894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabah-a-39259894" height="30" with="40" /></a>
 <a href="https://fb.com/rab06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rab06" height="30" width="40" /></a>
 <a href="https://instagram.com/rabouh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabouh06" height="30" width="40" /></a>
-<a href="https://twitter.com/rabou06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabou06" height="30" width="40" /></a>
+<a href="https://twitter.com/rabou06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabou06" height="30" width="40" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rabou06" target="blank"><img src="https://img.shields.io/twitter/follow/rabou06?logo=twitter&style=for-the-badge" alt="rabou06" /></a> </p>
+<p align="center"> 
+</p><a href="https://twitter.com/rabou06" target="blank"><img src="https://img.shields.io/twitter/follow/rabou06?logo=twitter&style=for-the-badge" alt="rabou06" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
