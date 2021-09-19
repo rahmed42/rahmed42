@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rahmed</h1>
+<h1 align="center">Hi 👋, I'm Rabah AHMED</h1>
 <h3 align="center">A passionate embedded developer @TTS and Learning @42</h3>
 
 ![Counter](https://komarev.com/ghpvc/?username=rahmed42&color=green&style=flat)
