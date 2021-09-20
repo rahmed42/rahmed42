@@ -7,7 +7,7 @@
 ---
 
 
-- 🔭 I’m currently working on [libft](https://github.com/rahmed42/42Projects/tree/main/0-Libft)
+- 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
 - 🌱 I’m currently learning **C Cursus**
 
