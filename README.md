@@ -19,6 +19,12 @@
 
 [![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed)](https://github.com/JaeSeoKim/badge42)
 
+
+- Piscine Cursus :
+
+[![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed?cursus=C%20Piscine)](     https://github.com/JaeSeoKim/badge42)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42" alt="rahmed42" /></a> </p>
 
 
