@@ -7,7 +7,7 @@
 ---
 
 
-- 🔭 I’m currently working on [libft](https://github.com/rahmed42/42Projects/tree/main/0-Libft)
+- 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
 - 🌱 I’m currently learning **C Cursus**
 
@@ -25,7 +25,7 @@
 [![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed?cursus=C%20Piscine)](     https://github.com/JaeSeoKim/badge42)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42" alt="rahmed42" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rahmed42" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -52,6 +52,6 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmed42&show_icons=true&theme=dark&locale=en" alt="rahmed42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmed42&show_icons=true&theme=nord&locale=en" alt="rahmed42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmed42&theme=dark" alt="rahmed42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmed42&theme=nord" alt="rahmed42" /></p>
