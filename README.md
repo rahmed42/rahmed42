@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
-- 🌱 I’m currently learning **C Cursus**
+- 🌱 I’m currently learning **C Cursus**, coding on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on a Microchip Dev card with Linux
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmed42&layout=compact&theme=prussian)](https://github.com/rahmed42/github-readme-stats)
