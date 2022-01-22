@@ -19,6 +19,37 @@
 
 [![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed)](https://github.com/JaeSeoKim/badge42)
 
+---
+
+### 42 Projects
+
+- Beginning project :
+
+![LIBFT](https://badgen.net/badge/Libft/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 1st circle :
+
+![GETNEXTLINE](https://badgen.net/badge/GetNextLine/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![BORN2BEROOT](https://badgen.net/badge/Born2beRoot/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![PRINTF](https://badgen.net/badge/printf/100/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 2nd circle :
+
+![MINITALK](https://badgen.net/badge/MiniTalk/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![SOLONG](https://badgen.net/badge/SoLong/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![PUSHSWAP](https://badgen.net/badge/PushSwap/84/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM02](https://badgen.net/badge/Exam02/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 3rd circle :
+
+![PHILOSOPHERS](https://badgen.net/badge/Philosophers/EnCours/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![MINISHELL](https://badgen.net/badge/MiniShell/.../orange/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM03](https://badgen.net/badge/Exam03/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+---
 
 - Piscine Cursus :
 
