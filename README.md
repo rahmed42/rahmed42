@@ -45,8 +45,8 @@
 
 - 3rd circle :
 
-![PHILOSOPHERS](https://badgen.net/badge/Philosophers/EnCours/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![MINISHELL](https://badgen.net/badge/MiniShell/.../orange/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![PHILOSOPHERS](https://badgen.net/badge/Philosophers/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![MINISHELL](https://badgen.net/badge/MiniShell/EnCours/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![EXAM03](https://badgen.net/badge/Exam03/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ---
