@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
-- 🌱 I’m currently learning **C Cursus**, coding on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on Dev cards/ industrial computers with Linux Ubuntu
+- 🌱 I’m currently learning **C/C++ Cursus**, coding on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on Dev cards/ industrial computers with Linux Ubuntu
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmed42&layout=compact&theme=prussian)](https://github.com/rahmed42/github-readme-stats)
@@ -55,7 +55,7 @@
 
 ![MiniRT](https://badgen.net/badge/MiniRT/105/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![NetPractice](https://badgen.net/badge/NetPractice/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![CPP](https://badgen.net/badge/CPP/Module07/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![CPP](https://badgen.net/badge/CPP/Module08/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![EXAM04](https://badgen.net/badge/Exam04/ToDo/purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ---
