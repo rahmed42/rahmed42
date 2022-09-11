@@ -66,6 +66,13 @@
 ![Inception](https://badgen.net/badge/Inception/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![EXAM05](https://badgen.net/badge/Exam05/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
+
+- 6th circle :
+
+![Ft_transcendance](https://badgen.net/badge/Ft_Transcendance/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM06](https://badgen.net/badge/Exam06/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
 ---
 
 - Piscine Cursus :
