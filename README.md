@@ -64,7 +64,7 @@
 ![webserv](https://badgen.net/badge/Webserv/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![Inception](https://badgen.net/badge/Inception/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![CPP](https://badgen.net/badge/CPP05-09/Cleaned/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM05](https://badgen.net/badge/Exam05/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM05](https://badgen.net/badge/Exam05/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 
 - 6th circle :
