@@ -64,10 +64,10 @@
 
 <a href="https://www.apple.com/macos/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Apple MacOS" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/fr-fr/windows/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> :
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+&#8594;
 <a href="https://www.debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
-<a href="https://linuxmint.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint" width="40" height="40"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmed42&layout=compact&theme=prussian)](https://github.com/rahmed42/github-readme-stats)
