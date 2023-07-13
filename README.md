@@ -72,7 +72,7 @@
 
 ---
 
-### 42 Projects results in %
+### 42 Projects results
 
 - Root project :
 
