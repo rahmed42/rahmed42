@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
 - 🌱 I’m currently learning **Post commom Core Cursus**, coding on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on Dev cards/ industrial computers with Linux Ubuntu
+- I worked on Autonomous drive system cars few months
+- I'm actually working in a Spacial company on embedded softwares based on VxWorks and NASA's CFS/CFE.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rahmed42" /></a> </p>
