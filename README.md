@@ -85,6 +85,7 @@
 
 ![Bgp](https://badgen.net/badge/Bgp_At_Doors_of_Autonomous_Systems_is_Simple/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
+
 *Solo projects :*
 
 ![Malloc](https://badgen.net/badge/Malloc/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
@@ -102,23 +103,23 @@
 
 **^^^ All req for RNCP7 OK ^^^**
 
+
 *To complete level 21 :*
 
 ![UnleashTheBox](https://badgen.net/badge/UnleashTheBox/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![boot2root](https://badgen.net/badge/boot2root/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![nm](https://badgen.net/badge/nm/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![ft_ssl_des](https://badgen.net/badge/ft_ssl_des/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![ft_ssl_rsa](https://badgen.net/badge/ft_ssl_rsa/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
+![nm](https://badgen.net/badge/nm/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
 ![Abstract_data](https://badgen.net/badge/Abstract_data/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
+![boot2root](https://badgen.net/badge/boot2root/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
 ---
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmed42&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rahmed42" /></a> </p>
 
