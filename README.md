@@ -108,6 +108,8 @@
 
 ![boot2root](https://badgen.net/badge/boot2root/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
+![nm](https://badgen.net/badge/nm/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
 ![ft_ssl_des](https://badgen.net/badge/ft_ssl_des/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![ft_ssl_rsa](https://badgen.net/badge/ft_ssl_rsa/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
