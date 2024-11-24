@@ -6,7 +6,7 @@
 
 ---
 
-- I'm actually working in a Spacial company on embedded software based on VxWorks and NASA's CFS/CFE.
+- 🚀 I'm working at Thales Alenia Space as an embedded software engineer on the NASA Artemis program for the Lunar Gateway project based on VxWorks and NASA's CFS/CFE.
 
 - I worked on Autonomous drive system for cars few months
 
