@@ -6,13 +6,83 @@
 
 ---
 
-- I worked on Autonomous drive system for cars few months
-  
 - I'm actually working in a Spacial company on embedded software based on VxWorks and NASA's CFS/CFE.
+
+- I worked on Autonomous drive system for cars few months
+
+- And before i worked on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on Dev cards/industrial computers with Linux Ubuntu
 
 - 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
-- 🌱 I’m currently learning **Post commom Core Cursus**, coding on ST&Company cards with embedded FreeRTOS on STM32F7, STM32L0, and on Dev cards/ industrial computers with Linux Ubuntu
+- 🌱 I’m currently learning **Post commom Core Cursus**
+
+---
+
+### 42 Projects results
+
+- Root project :
+
+![LIBFT](https://badgen.net/badge/Libft/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 1st circle :
+
+![GETNEXTLINE](https://badgen.net/badge/GetNextLine/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![BORN2BEROOT](https://badgen.net/badge/Born2beRoot/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![PRINTF](https://badgen.net/badge/printf/100/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 2nd circle :
+
+![MINITALK](https://badgen.net/badge/MiniTalk/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![SOLONG](https://badgen.net/badge/SoLong/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![PUSHSWAP](https://badgen.net/badge/PushSwap/84/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM02](https://badgen.net/badge/Exam02/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 3rd circle :
+
+![PHILOSOPHERS](https://badgen.net/badge/Philosophers/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![MINISHELL](https://badgen.net/badge/MiniShell/101/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM03](https://badgen.net/badge/Exam03/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 4th circle :
+
+![MiniRT](https://badgen.net/badge/MiniRT/105/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![NetPractice](https://badgen.net/badge/NetPractice/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![CPP](https://badgen.net/badge/CPP00-04/Cleaned/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM04](https://badgen.net/badge/Exam04/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 5th circle :
+
+![webserv](https://badgen.net/badge/Webserv/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Inception](https://badgen.net/badge/Inception/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![CPP](https://badgen.net/badge/CPP05-09/Cleaned/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM05](https://badgen.net/badge/Exam05/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- 6th circle :
+
+![Ft_transcendance](https://badgen.net/badge/Ft_Transcendance/99/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![EXAM06](https://badgen.net/badge/Exam06/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+- Post common core :
+
+![InternshipI](https://badgen.net/badge/InternshipI/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![InternshipII](https://badgen.net/badge/InternshipII/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+![Malloc](https://badgen.net/badge/Malloc/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+![SnowCrash](https://badgen.net/badge/SnowCrash/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Rainfall](https://badgen.net/badge/Rainfall/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+![Abstract_data](https://badgen.net/badge/Abstract_data/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+
+---
 
 
 
@@ -74,78 +144,7 @@
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmed42&layout=compact&theme=prussian)](https://github.com/rahmed42/github-readme-stats)
-
-
-- 42 Cursus :
-
-[![rahmed's 42 stats](https://badge42.vercel.app/api/v2/cl1mbvsmg00260alc05de4fvo/stats?cursusId=21&coalitionId=117)](https://github.com/JaeSeoKim/badge42)
-
-
 ---
-
-### 42 Projects results
-
-- Root project :
-
-![LIBFT](https://badgen.net/badge/Libft/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 1st circle :
-
-![GETNEXTLINE](https://badgen.net/badge/GetNextLine/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![BORN2BEROOT](https://badgen.net/badge/Born2beRoot/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![PRINTF](https://badgen.net/badge/printf/100/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 2nd circle :
-
-![MINITALK](https://badgen.net/badge/MiniTalk/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![SOLONG](https://badgen.net/badge/SoLong/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![PUSHSWAP](https://badgen.net/badge/PushSwap/84/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM02](https://badgen.net/badge/Exam02/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 3rd circle :
-
-![PHILOSOPHERS](https://badgen.net/badge/Philosophers/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![MINISHELL](https://badgen.net/badge/MiniShell/101/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM03](https://badgen.net/badge/Exam03/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 4th circle :
-
-![MiniRT](https://badgen.net/badge/MiniRT/105/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![NetPractice](https://badgen.net/badge/NetPractice/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![CPP](https://badgen.net/badge/CPP00-04/Cleaned/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM04](https://badgen.net/badge/Exam04/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 5th circle :
-
-![webserv](https://badgen.net/badge/Webserv/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Inception](https://badgen.net/badge/Inception/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![CPP](https://badgen.net/badge/CPP05-09/Cleaned/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM05](https://badgen.net/badge/Exam05/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- 6th circle :
-
-![Ft_transcendance](https://badgen.net/badge/Ft_Transcendance/99/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![EXAM06](https://badgen.net/badge/Exam06/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- Post common core :
-
-![Abstract_data](https://badgen.net/badge/Abstract_data/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
----
-
-- Piscine Cursus :
-
-[![rahmed's 42 stats](https://badge42.vercel.app/api/v2/cl1mbvsmg00260alc05de4fvo/stats?cursusId=9&coalitionId=piscine)](     https://github.com/JaeSeoKim/badge42)
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmed42&show_icons=true&theme=nord&locale=en" alt="rahmed42" /></p>
