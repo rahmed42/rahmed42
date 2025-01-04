@@ -84,7 +84,8 @@
 ![override](https://badgen.net/badge/override/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![Bgp](https://badgen.net/badge/Bgp_At_Doors_of_Autonomous_Systems_is_Simple/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
+ Or
+![IoT](https://badgen.net/badge/Inception-of-Things/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 *Solo projects :*
 
@@ -140,43 +141,51 @@
 <h3 align="left">Languages, OS & tools</h3>
 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/350/PNG/512/bash_36261.png" alt="bash" width="auto" height="50"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" alt="bash" width="auto" height="50"/> </a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="50"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="auto" height="50"/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/git_macos_bigsur_icon_190141.png" alt="git" width="auto" height="50"/> </a>
+<a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/bitbucket_socialnetwork_17358.png" alt="bitbucket" width="auto" height="50"/> </a>
+<a href="https://www.atlassian.com/fr/software/jira" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/250px-Jira_Logo.svg.png" style="background-color:white;" alt="Jira" width="auto" height="50"/> </a>
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="jenkins" width="auto" height="50"/> </a>
+<a href="https://www.sonarsource.com" target="_blank"> <img src="https://assets-eu-01.kc-usercontent.com/7630306f-9a2f-018d-2726-3ef76ef712f4/679d64ab-c8d4-4525-afff-c03747f121dc/sonarqube-server-logo-3.svg" style="background-color:white;" alt="Sonar" width="auto" height="50"/> </a>
+
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="auto" height="50"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="background-color:white;" alt="docker" width="auto" height="50"/> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="auto" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="50"/> </a>
+
+<a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="auto" height="50"/></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" alt="nestjs" width="auto" height="50"/> </a>
 
 
-<a href="https://phaser.io/phaser3" target="_blank"><img src="https://phaser.io/images/logo.png" alt="Phaser 3" width="auto" height="40"/></a>
-<a href="https://colyseus.io/" target="_blank"><img src="https://colyseus.io/images/logos/logo-light-color.png" alt="Colyseus" width="auto" height="40"/></a>
+<a href="https://phaser.io/phaser3" target="_blank"><img src="https://cdn.phaser.io/images/logo/phaser-logo.png" alt="Phaser 3" width="auto" height="50"/></a>
+<a href="https://colyseus.io/" target="_blank"><img src="https://colyseus.io/images/logos/logo-light-color.png" alt="Colyseus" width="auto" height="50"/></a>
 
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="background-color:white;" alt="postgresql" width="auto" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="background-color:white;" alt="mysql" width="auto" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="background-color:white;" alt="mssql" width="auto" height="50"/> </a>
 
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/513/PNG/256/PS-Extended-4_icon-icons.com_50989.png" alt="photoshop" width="auto" height="50"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/513/PNG/256/Illustrator-3_icon-icons.com_50984.png" alt="illustrator" width="auto" height="50"/> </a>
 
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/26/PNG/256/Mac_MacOS_you_2599.png" alt="Apple MacOS" width="auto" height="50"/></a> MacOS
 
+<a href="https://www.microsoft.com/fr-fr/windows/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="auto" height="50"/></a> On 95/98/XP/7/10/11 And Server 12/16/19
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-
-<a href="https://www.apple.com/macos/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Apple MacOS" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/fr-fr/windows/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&#8594;
-<a href="https://www.debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="auto" height="50"/> </a>
+<a href="https://www.debian.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_wordmark_logo_icon_146569.png" style="background-color:white;" alt="Debian" width="auto" height="50"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ubuntu_plain_wordmark_logo_icon_146632.png" alt="Ubuntu" width="auto" height="50"/></a>
 
 
 ---
