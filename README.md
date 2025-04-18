@@ -69,13 +69,13 @@
 ![EXAM06](https://badgen.net/badge/Exam06/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 
-- Experiences :
+
+- **Post common core :**
+
+*Experiences :*
 
 ![InternshipI](https://badgen.net/badge/InternshipI/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![InternshipII](https://badgen.net/badge/InternshipII/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-
-- **Post common core :**
 
 *Group projects :*
 
@@ -84,39 +84,19 @@
 ![override](https://badgen.net/badge/override/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![Bgp](https://badgen.net/badge/Bgp_At_Doors_of_Autonomous_Systems_is_Simple/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
- Or
+
 ![IoT](https://badgen.net/badge/Inception-of-Things/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
+![KFS1](https://badgen.net/badge/Kfs-1/104/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![KFS2](https://badgen.net/badge/Kfs-2/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![KFS4](https://badgen.net/badge/Kfs-4/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+
 
 *Solo projects :*
 
 ![Malloc](https://badgen.net/badge/Malloc/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
-![Ft_Malcolm](https://badgen.net/badge/Ft_Malcolm/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![Ft_Ping](https://badgen.net/badge/Ft_Ping/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Ft_Traceroute](https://badgen.net/badge/Ft_Traceroute/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Ft_Nmap](https://badgen.net/badge/Ft_Nmap/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![ft_ssl_md5](https://badgen.net/badge/ft_ssl_md5/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![taskmaster](https://badgen.net/badge/taskmaster/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![matt-daemon](https://badgen.net/badge/matt-daemon/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-**^^^ All req for RNCP7 OK ^^^**
-
-
-*To complete level 21 :*
-
-![UnleashTheBox](https://badgen.net/badge/UnleashTheBox/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![boot2root](https://badgen.net/badge/boot2root/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![ft_ssl_des](https://badgen.net/badge/ft_ssl_des/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![ft_ssl_rsa](https://badgen.net/badge/ft_ssl_rsa/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![nm](https://badgen.net/badge/nm/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-
-![Abstract_data](https://badgen.net/badge/Abstract_data/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Ft_Ping](https://badgen.net/badge/Ft_Ping/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 RNCP Progress : https://42tools.slopez.dev/rncp-progress
 
