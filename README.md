@@ -81,7 +81,7 @@
 
 ![SnowCrash](https://badgen.net/badge/SnowCrash/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![Rainfall](https://badgen.net/badge/Rainfall/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![override](https://badgen.net/badge/override/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![override](https://badgen.net/badge/override/125/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 ![Bgp](https://badgen.net/badge/Bgp_At_Doors_of_Autonomous_Systems_is_Simple/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
