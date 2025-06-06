@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [42Projects and private embedded projects](https://github.com/rahmed42?tab=repositories)
 
-- 🌱 I’m currently learning **Post commom Core Cursus**
+- 🌱 I’m currently learning **Post commom Core Projects of 42 Nice** and get the RNCP7
 
 ---
 
