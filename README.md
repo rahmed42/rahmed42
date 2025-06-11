@@ -90,7 +90,7 @@
 ![KFS1](https://badgen.net/badge/Kfs-1/104/blue/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![KFS2](https://badgen.net/badge/Kfs-2/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
-![ActiveDiscovery](https://badgen.net/badge/ActiveDiscovery/.../purple/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![ActiveDiscovery](https://badgen.net/badge/ActiveDiscovery/100/green/?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 
 *Solo projects :*
