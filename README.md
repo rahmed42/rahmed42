@@ -17,9 +17,11 @@
 - 🌱 I finalize all the **Post commom Core Projects of 42 Nice** and get the RNCP7 and Computer Architect certifications.
 
 RNCP Niveau 7 - Expert en Architecture Informatique - Architecture des Systèmes d’Information Réseaux (39774)
+
 https://www.credly.com/badges/3e97f130-86b9-4b1f-bba7-6978a19453d1
 
 42 Cursus - Computer Architect - Level 21
+
 https://www.credly.com/badges/c941ffd6-2aa7-4dfb-9464-6498a6dd8b02
 
 
